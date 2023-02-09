@@ -1,3 +1,5 @@
 backend-ref/
 frontend-ref/
 language-learning-frontend-react/node_modules/
+
+.DS_Store
